@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 
+Sitemap: https://olanrewajutobiloba72-en.github.io/QuickEveryday/sitemap.xml
